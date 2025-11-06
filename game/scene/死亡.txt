@@ -1,0 +1,8 @@
+bgm:immature.ogg;
+:你要将拆逆一个不剩地驱逐出去！;
+changeBg:mmexport1762426271702.jpg -next;
+:你用武力赶跑了对方，美美地和同担聚餐，一路爽骂拆逆。;
+changeBg:none;
+intro:就这样，你成为产品的爱情保镖，守护着他们的爱情，拳打拆逆，脚踢ky。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:end1.0 产品的保镖 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

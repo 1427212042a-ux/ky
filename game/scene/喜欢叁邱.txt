@@ -1,0 +1,4 @@
+叁邱:很抱歉不能回应你的感情。|我喜欢的是蛋蛋……;
+changeFigure:none;
+:叁邱走了，你的无料也没能换出去。;
+changeScene:3.5.txt;

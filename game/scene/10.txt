@@ -1,0 +1,3 @@
+:很遗憾，你什么忙都帮不上。;
+changeFigure:none -next;
+changeScene:11.txt;

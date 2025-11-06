@@ -1,0 +1,6 @@
+changeBg: -next;
+bgm:lonely.ogg;
+:你是一个脆弱的洁癖，你当场昏迷过去。;
+:烤鱼姐聚餐也没能去成。|也许下次应该勇敢一些的。;
+intro:end3.0 产品的守护灵 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

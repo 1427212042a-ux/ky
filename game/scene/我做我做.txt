@@ -1,0 +1,12 @@
+我:可以的老师！;
+bgm:none;
+changeBg: -next;
+intro:你的眼前突然一黑。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+bgm:ominous.ogg;
+我:这是哪里？;
+河:我已经把你关进不做12310929份烤鱼饭就出不来的房间里了，这是你选择的道路。;
+河:哦呵呵呵，我会一直盯着你的👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️;
+changeFigure:none;
+intro:就这样，你成为产品的一头驴，每天都在给老板们拉磨。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:end2.0 产品的驴 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

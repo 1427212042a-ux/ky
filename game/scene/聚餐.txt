@@ -1,0 +1,7 @@
+:你跟对方解释这个是洁癖限定聚餐，婉拒了对方。;
+changeBg:mmexport1762426271702.jpg -next;
+bgm:immature.ogg;
+:你和洁癖同担们成功聚了餐，餐桌上把拆逆ky骂了个遍。;
+:哎，真的好喜欢克御。;
+intro:end4.0 产品姐的日常 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

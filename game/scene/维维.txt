@@ -1,0 +1,6 @@
+我:老师您是？;
+changeFigure:b_c14f77a7ebbd7c75d5f8b9613e130fcd.jpg;
+维维:我是维维。;
+changeFigure:none;
+:你和维维换了无料，拿到的无料像炸药包一样大，你非常开心。;
+changeScene:9.txt;

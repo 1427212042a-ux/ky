@@ -1,0 +1,7 @@
+playEffect:DOOR_AP_OPEN.wav;
+bgm:auspiciousness.ogg;
+changeBg:111.png;
+我:今天，我来到了克御茶话会。来和各位同担换无料。|很好奇我第一个遇到的会是谁呢？;
+playEffect:HIT_HEAVY.wav;
+我:哎呀！是谁？;
+choose:看着她:银啸天.txt|无视她:2.txt;

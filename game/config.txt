@@ -1,0 +1,6 @@
+Game_name:ky;
+Game_key:177b0d1deefb4a4;
+Title_img:群.png;
+Title_bgm:immature.ogg;
+Textbox_theme:imss;
+Default_Language:zh_CN;

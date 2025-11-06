@@ -1,0 +1,7 @@
+changeFigure:b_ac9635419eeabed88b27728ba6dffcbd.jpg;
+我:请问你是哪位老师？;
+薯条:我是薯条。;
+我:薯神神了我很喜欢你画的女铜好好我要和薯神换无料买本子。;
+changeFigure:none;
+:你购买完东西开心地走了。;
+changeScene:3.txt;

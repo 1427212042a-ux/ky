@@ -1,0 +1,8 @@
+changeFigure:b_6978ce35909e5bf54c5ba4c8a053ff72.jpg;
+？？？:……;
+我:请问你是银师吗？我想和你换无料。;
+？？？:我不是银啸天。;
+我:噢噢，不好意思认错人了。;
+changeFigure:none;
+我:还是看看别人吧。;
+changeScene:2.txt;

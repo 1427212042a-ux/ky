@@ -1,0 +1,5 @@
+changeFigure:b_6438f8796e09828a4043b89a2de45094.jpg;
+叁邱:好！|来来！;
+changeFigure:none;
+:你换完无料开心地走了。;
+changeScene:3.5.txt;

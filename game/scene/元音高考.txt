@@ -1,0 +1,4 @@
+元音:不要说这么养胃的话！;
+changeFigure:none;
+:元音走了，你也没能换到无料。;
+changeScene:4.txt;

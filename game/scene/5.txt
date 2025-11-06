@@ -1,0 +1,3 @@
+:很遗憾，你没能上去打招呼。;
+changeFigure:none;
+changeScene:6.txt;
